@@ -1,1 +1,1 @@
-## Hi, this is the porject built while learning javascript course from scrimba.
+## Hi, this is the project built while learning javascript course from scrimba.
